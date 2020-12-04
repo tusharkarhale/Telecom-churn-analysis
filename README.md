@@ -1,0 +1,2 @@
+# Telecom-churn-analysis
+Customer churn arise when customer stop doing business with a company or services within a specific amount of time. Retaining customer is important for companies in order to enhance their revenue and it built meaningful association with customer. Customer retention is actually more valuable then customer acquisition. So we will see and analyze the customer churn based on the given data.
